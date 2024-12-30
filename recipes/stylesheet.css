@@ -1,0 +1,15 @@
+* {
+    color:darkslategrey;
+    font-family:'Gothic', sans-serif;
+}
+
+h1,
+h2 {
+    font-size:18px;
+    font-weight:800;
+}
+
+ol,
+ul, p {
+    font-size:12px;
+}
